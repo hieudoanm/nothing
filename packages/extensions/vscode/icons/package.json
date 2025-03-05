@@ -22,7 +22,7 @@
   "homepage": "https://github.com/hieudoanm/nothing#readme",
   "engines": {
     "node": "22.14.0",
-    "vscode": "1.97.2"
+    "vscode": "1.98.0"
   },
   "scripts": {
     "format": "prettier --cache --write ."
