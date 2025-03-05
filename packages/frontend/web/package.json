@@ -55,7 +55,7 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "3.3.0",
-    "@tailwindcss/postcss": "4.0.9",
+    "@tailwindcss/postcss": "4.0.10",
     "@tanstack/react-query": "5.67.1",
     "@tauri-apps/cli": "2.3.1",
     "@types/gif.js": "0.2.5",
@@ -78,7 +78,7 @@
     "prettier": "3.5.3",
     "prettier-plugin-tailwindcss": "0.6.11",
     "rimraf": "6.0.1",
-    "tailwindcss": "4.0.9",
+    "tailwindcss": "4.0.10",
     "ts-jest": "29.2.6",
     "ts-node": "10.9.2",
     "typescript": "5.8.2"
